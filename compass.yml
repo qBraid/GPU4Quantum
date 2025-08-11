@@ -1,0 +1,16 @@
+name: GPU4Quantum
+id: ari:cloud:compass:8526d2ba-687c-46b3-8b65-acaf550a9b39:component/141c5c30-d6a4-4eb9-b8dd-1a0c55663014/a7e0128e-46f1-4b95-bed9-332352b5a1dd
+description: Welcome to the qBraid 2025 GPU4Quantum Challenge! Find challenges, ideas, and logistics here.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/qBraid/GPU4Quantum
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
